@@ -1,0 +1,15 @@
+def gris(p):
+
+    for(int i = 0; i < height; i++)
+
+        for (int j = 0; j < width; j++)
+            //promediar los tres valores para que tenga un color en en rango del gris
+            float average = (image[i][j].rgbtBlue + image [i][j].rgbtRed + image[i][j].rgbtGreen) / 3.00;
+
+            int avg = round(average);
+
+            image[i][j].rgbtBlue = avg ;
+            image[i][j].rgbtRed = avg ;
+            image[i][j].rgbtGreen = avg;
+
+    return;
