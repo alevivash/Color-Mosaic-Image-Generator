@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7af39476-bfcb-4c55-8e68-bb9b3c423a35" name="Changes" comment="seleccionar carpeta">
+      <change afterPath="$PROJECT_DIR$/.idea/Mosaico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mosaico3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mosaico3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mosaico4.py" beforeDir="false" afterPath="$PROJECT_DIR$/mosaico4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mosaico_L1.py" beforeDir="false" afterPath="$PROJECT_DIR$/mosaico_L1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +121,7 @@
       <workItem from="1735255599134" duration="3666000" />
       <workItem from="1735261475946" duration="910000" />
       <workItem from="1735262775461" duration="590000" />
-      <workItem from="1735338706468" duration="2991000" />
+      <workItem from="1735338706468" duration="3669000" />
     </task>
     <task id="LOCAL-00001" summary="seleccionar carpeta">
       <option name="closed" value="true" />
@@ -129,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735258884413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="seleccionar carpeta">
+      <option name="closed" value="true" />
+      <created>1735342423755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735342423755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,13 +153,13 @@
     <SUITE FILE_PATH="coverage/Mosaico$gpt.coverage" NAME="gpt Coverage Results" MODIFIED="1723001329980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$comas.coverage" NAME="comas Coverage Results" MODIFIED="1731376292209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaicocv.coverage" NAME="mosaicocv Coverage Results" MODIFIED="1723154349919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
-    <SUITE FILE_PATH="coverage/Mosaico$mosaico3.coverage" NAME="mosaico3 Coverage Results" MODIFIED="1735341831252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mosaico$mosaico3.coverage" NAME="mosaico3 Coverage Results" MODIFIED="1735342779699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_gris.coverage" NAME="mosaico_gris Coverage Results" MODIFIED="1723148025465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$csv.coverage" NAME="csv Coverage Results" MODIFIED="1731375623426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico2.coverage" NAME="mosaico2 Coverage Results" MODIFIED="1723152965380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_L1.coverage" NAME="mosaico_L1 Coverage Results" MODIFIED="1735342083709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_prototipo.coverage" NAME="mosaico_prototipo Coverage Results" MODIFIED="1723174170012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
-    <SUITE FILE_PATH="coverage/Mosaico$mosaico4.coverage" NAME="mosaico4 Coverage Results" MODIFIED="1735257376717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mosaico$mosaico4.coverage" NAME="mosaico4 Coverage Results" MODIFIED="1735342232750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_delta.coverage" NAME="mosaico_delta Coverage Results" MODIFIED="1723163796849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$gpt2.coverage" NAME="gpt2 Coverage Results" MODIFIED="1722988318291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico.coverage" NAME="mosaico Coverage Results" MODIFIED="1723002489566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />

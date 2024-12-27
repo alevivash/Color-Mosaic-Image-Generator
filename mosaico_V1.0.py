@@ -142,10 +142,6 @@ def seleccionar_imagen():
     Tk().withdraw()  # Oculta la ventana raíz
     return Image.open(filedialog.askopenfilename(title="Selecciona una imagen",
                                                  filetypes=[("Archivos de imagen", "*.png;*.jpg;*.jpeg;*.bmp;*.gif")]))
-
-
-
-
 source = seleccionar_imagen()
 miniaturas = listaRedim(cargar_imagenes((seleccionar_carpeta())), 10, 10)
 Mosaico = construirMosaico(source, miniaturas, 56)
