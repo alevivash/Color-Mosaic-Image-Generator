@@ -2,6 +2,7 @@ import os
 import numpy as np
 from PIL import Image
 import math
+from tkinter import Tk, filedialog
 
 def cargar_imagenes(route):
     imagenes = []
@@ -70,8 +71,6 @@ def L2_color_luminance(a, b):  # Lenght between 2 points
     luminance_distance = abs(np.mean(a) - np.mean(b)) #L1
     return color_distance + luminance_distance
 
-
-
 def initMosaico(source, w, h, p):
     mAltura, mAncho = h * p, w * p
     return vecinoProximo(source, mAncho, mAltura)
@@ -90,9 +89,14 @@ def construirMosaico(source, miniaturas, p):
     mosaico = unir(elegidas, w, h)
     return np.array(mosaico, dtype=np.uint8)
 
-source = Image.open('source.jpg')
-miniaturas = listaRedim(cargar_imagenes(b"C:\Projects\USB\Python\Mosaico\imagenes"), 25, 19)
-Mosaico = construirMosaico(source, miniaturas, 120)
+def seleccionar_carpeta():
+    Tk().withdraw()  # Oculta la ventana raíz
+    return filedialog.askdirectory(title="Selecciona una carpeta")
+
+
+source = Image.open('Killua.jpg')
+miniaturas = listaRedim(cargar_imagenes((seleccionar_carpeta())), 10, 10)
+Mosaico = construirMosaico(source, miniaturas, 56)
 Imagen = Image.fromarray(Mosaico)
 Imagen.show()
 

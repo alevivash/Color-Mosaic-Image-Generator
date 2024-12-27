@@ -2,6 +2,7 @@ import os
 import numpy as np
 from PIL import Image
 import math
+from tkinter import Tk, filedialog
 
 def cargar_imagenes(route):
 
@@ -83,7 +84,6 @@ def listaRedim(A, w, h):
         A[i] = vecinoProximo(A[i], w, h)
     return A
 
-
 def vecinoProximo(A, w, h):
     """
     Toma las dimensiones de la imagen A y las divide entre las nuevas dimensiones dadas, w y h. A través de un bucle for
@@ -126,11 +126,17 @@ def construirMosaico(source, miniaturas, p):
     mosaico = unir(elegidas, w, h)   # Une las elegidas y retorna el mosaico de imagenes
     return np.array(mosaico, dtype=np.uint8)
 
-#********************************************************************************MAIN****************************************************************************************************
+def seleccionar_carpeta():
+    Tk().withdraw()  # Oculta la ventana raíz
+    return filedialog.askdirectory(title="Selecciona una carpeta")
 
-source = Image.open('source.jpg')
-miniaturas = listaRedim(cargar_imagenes(b"C:\Projects\USB\Python\Mosaico\imagenes"), 25, 19)
-Mosaico = construirMosaico(source, miniaturas, 120)
+def seleccionar_imagen():
+    Tk().withdraw()  # Oculta la ventana raíz
+    return filedialog.askopenfile(title="Selecciona una imagen")
+
+source = Image.open('Killua.jpg')
+miniaturas = listaRedim(cargar_imagenes((seleccionar_carpeta())), 10, 10)
+Mosaico = construirMosaico(source, miniaturas, 56)
 Imagen = Image.fromarray(Mosaico)
 Imagen.show()
 

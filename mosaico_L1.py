@@ -2,6 +2,7 @@ import os
 import numpy as np
 from PIL import Image
 import math
+from tkinter import Tk, filedialog
 
 def cargar_imagenes(route):
     """
@@ -160,10 +161,15 @@ def aplicar_filtro(imagen_array, filtro_func):
 
     return imagen_filtrada
 
-source = Image.open('source.jpg')
-miniaturas = listaRedim(cargar_imagenes(b"C:\Projects\USB\Python\Mosaico\imagenes"), 14, 21)
-Mosaico = construirMosaico(source, miniaturas, 150)
-Imagen = Image.fromarray(Mosaico).convert('L')
+def seleccionar_carpeta():
+    Tk().withdraw()  # Oculta la ventana raíz
+    return filedialog.askdirectory(title="Selecciona una carpeta")
+
+
+source = Image.open('Killua.jpg')
+miniaturas = listaRedim(cargar_imagenes((seleccionar_carpeta())), 10, 10)
+Mosaico = construirMosaico(source, miniaturas, 56)
+Imagen = Image.fromarray(Mosaico)
 Imagen.show()
 
 #Se logra tener una imagen definida pero los colores tienden a ser opacos y grisaseos
