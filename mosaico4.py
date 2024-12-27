@@ -89,12 +89,26 @@ def construirMosaico(source, miniaturas, p):
     mosaico = unir(elegidas, w, h)
     return np.array(mosaico, dtype=np.uint8)
 
+
 def seleccionar_carpeta():
+    """
+    Abre una ventana y seleccionas una carpeta, la cual debe contener a las imagenes
+    """
     Tk().withdraw()  # Oculta la ventana raíz
     return filedialog.askdirectory(title="Selecciona una carpeta")
 
 
-source = Image.open('Killua.jpg')
+def seleccionar_imagen():
+    """
+    Abre una ventana y seleccionas una imagen, se debe usar askopenfilename y no askopenfile porque si no da error
+    """
+
+    Tk().withdraw()  # Oculta la ventana raíz
+    return Image.open(filedialog.askopenfilename(title="Selecciona una imagen",
+                                                 filetypes=[("Archivos de imagen", "*.png;*.jpg;*.jpeg;*.bmp;*.gif")]))
+
+
+source = seleccionar_imagen()
 miniaturas = listaRedim(cargar_imagenes((seleccionar_carpeta())), 10, 10)
 Mosaico = construirMosaico(source, miniaturas, 56)
 Imagen = Image.fromarray(Mosaico)

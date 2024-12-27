@@ -5,437 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7af39476-bfcb-4c55-8e68-bb9b3c423a35" name="Changes" comment="seleccionar carpeta">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Mosaico.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1011-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1013-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1018-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/102-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1028-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/104-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1040-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1043-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1048-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1049-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1055-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1058-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1059-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1064-500x375 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1064-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/107-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1071-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1072-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1075-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1078-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/1082-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/109-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/110-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/116-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/124-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/127-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/130-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/137-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/149-500x375 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/149-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/152-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/157-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/158-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/166-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/167-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/168-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/172-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/176-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/178-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/188-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/193-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/195-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/20-500x375 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/20-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/202-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/203-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/206-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/209-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/211-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/212-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/215-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/219-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/225-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/23-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/235-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/238-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/24-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/242-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/248-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/25-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/258-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/264-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/267-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/274-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/277-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/280-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/288-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/294-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/296-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/297-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/3-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/305-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/307-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/308-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/311-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/312-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/319-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/334-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/337-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/339-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/342-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/347-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/349-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/351-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/354-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/355-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/357-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/36-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/361-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/362-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/365-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/367-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/373-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/385-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/386-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/388-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/396-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/404-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/419-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/42-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/426-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/427-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/429-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/437-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/44-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/446-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/450-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/454-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/455-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/456-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/458-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/46-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/468-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/471-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/475-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/478-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/479-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/485-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/49-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/494-500x375 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/494-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/496-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/497-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/5-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/501-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/504-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/505-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/512-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/514-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/518-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/525-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/529-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/532-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/539-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/543-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/546-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/547-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/549-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/555-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/557-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/558-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/560-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/562-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/564-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/566-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/570-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/575-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/577-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/581-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/584-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/586-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/591-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/593-500x375 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/593-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/594-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/598-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/600-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/607-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/61-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/611-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/619-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/625-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/629-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/63-500x375 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/63-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/631-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/633-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/635-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/648-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/649-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/650-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/657-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/66-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/671-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/672-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/676-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/682-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/687-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/69-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/695-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/702-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/716-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/718-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/722-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/723-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/726-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/727-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/728-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/738-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/743-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/767-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/768-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/77-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/772-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/780-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/790-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/802-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/804-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/81-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/818-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/819-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/82-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/820-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/833-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/840-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/842-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/857-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/860-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/861-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/862-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/865-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/868-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/870-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/871-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/878-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/88-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/883-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/884-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/887-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/896-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/898-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/9-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/90-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/906-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/910-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/911-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/918-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/921-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/922-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/923-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/925-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/931-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/932-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/936-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/943-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/948-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/950-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/957-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/966-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/970-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/973-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/974-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/979-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/98-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/982-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/989-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/990-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/997-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/999-500x375.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/eiffel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.19.28.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.23.11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.23.12.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.23.15.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.23.22.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.23.45.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.03.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.21.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.22.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.23.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.24.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.25 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.25.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.26.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.27.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.28.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.30.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.31 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.31.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.32 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.32.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.33.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.34 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.34.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.35.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.36 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.36.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.37 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.37.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.38 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.38.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.39 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.39.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.40.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.41.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.42.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.43 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.43.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.24.44.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.31 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.31.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.32 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.32.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.33 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.33.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.34.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.35.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.36.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.47 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.47.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.48 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.48.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.49.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.50 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.50 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.50 (3).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.50.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.51 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.51.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.52 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.52 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.52.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.53.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.54 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.54 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.54.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.55 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.55 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.55.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.56 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.56.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.57 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.57.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.58 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.58.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.59 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.59 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.25.59.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.00 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.00.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.01 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.01 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.01.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.03 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.03 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.03.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.04 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.04.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.05 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.05.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.06 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.06.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.07 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.07 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.07.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.08 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.08.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.09 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.09.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.10 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.10.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.11 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.12 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.12 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.13 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.13.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.14 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.14.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.15 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.15 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.15.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.16.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.17 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.17 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.17.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.18 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.18 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.18.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.19 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.19 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.19.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.20 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/WhatsApp Image 2024-08-08 at 22.26.20.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenesd/pedro_sus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/Alejandro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/Joker.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/PEDRO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/don ramon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/don_ramon_azulado.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/don_ramon_gris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/don_ramon_invertido.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuevo/don_ramon_mas_rojo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/L1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/arraypixel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/azul.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/blanco.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/byn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/construirMosaico.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/conversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/conversion2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/conversion3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/escogerMiniatura.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/fast.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/frecuente.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/grande.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/gris.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/gris.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/image2d.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/initMosaico.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/listaRGBtoGris.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/listaRedim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/medialocal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/mosaic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/mosaic2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/mosaic3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/norepetir.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/normal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/nueva.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/pixel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/procesar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/reduccionSumas1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/source.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/tabladegrises.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/tablasuma.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/vecinoProximo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/verde.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebas/wharrol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/Proyecto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/mosaico.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/mosaico_L1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/mosaico_delta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/mosaico_gris_prototipo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/mosaico_prototipo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/viejos/proyectorespaldo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mosaico3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mosaico3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mosaico4.py" beforeDir="false" afterPath="$PROJECT_DIR$/mosaico4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mosaico_L1.py" beforeDir="false" afterPath="$PROJECT_DIR$/mosaico_L1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -452,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alevivash&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alevivash/Color-Mosaic-Image-Generator.git&quot;,
+    &quot;accountId&quot;: &quot;075eb8d3-553b-4d70-9e35-0de8cb030b30&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -484,6 +69,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -530,7 +116,10 @@
       <workItem from="1735050125249" duration="648000" />
       <workItem from="1735062188083" duration="1173000" />
       <workItem from="1735233911206" duration="2725000" />
-      <workItem from="1735255599134" duration="3369000" />
+      <workItem from="1735255599134" duration="3666000" />
+      <workItem from="1735261475946" duration="910000" />
+      <workItem from="1735262775461" duration="590000" />
+      <workItem from="1735338706468" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="seleccionar carpeta">
       <option name="closed" value="true" />
@@ -554,11 +143,11 @@
     <SUITE FILE_PATH="coverage/Mosaico$gpt.coverage" NAME="gpt Coverage Results" MODIFIED="1723001329980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$comas.coverage" NAME="comas Coverage Results" MODIFIED="1731376292209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaicocv.coverage" NAME="mosaicocv Coverage Results" MODIFIED="1723154349919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
-    <SUITE FILE_PATH="coverage/Mosaico$mosaico3.coverage" NAME="mosaico3 Coverage Results" MODIFIED="1735258795674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Mosaico$csv.coverage" NAME="csv Coverage Results" MODIFIED="1731375623426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mosaico$mosaico3.coverage" NAME="mosaico3 Coverage Results" MODIFIED="1735341831252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_gris.coverage" NAME="mosaico_gris Coverage Results" MODIFIED="1723148025465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
+    <SUITE FILE_PATH="coverage/Mosaico$csv.coverage" NAME="csv Coverage Results" MODIFIED="1731375623426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico2.coverage" NAME="mosaico2 Coverage Results" MODIFIED="1723152965380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
-    <SUITE FILE_PATH="coverage/Mosaico$mosaico_L1.coverage" NAME="mosaico_L1 Coverage Results" MODIFIED="1735257565806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mosaico$mosaico_L1.coverage" NAME="mosaico_L1 Coverage Results" MODIFIED="1735342083709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_prototipo.coverage" NAME="mosaico_prototipo Coverage Results" MODIFIED="1723174170012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico4.coverage" NAME="mosaico4 Coverage Results" MODIFIED="1735257376717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Mosaico$mosaico_delta.coverage" NAME="mosaico_delta Coverage Results" MODIFIED="1723163796849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nuevo" />
